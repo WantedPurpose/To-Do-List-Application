@@ -1,53 +1,35 @@
-<p align="center">
-  <img src="logo.png" alt="Logo" width="80" height="80">
-  <h3 align="center">Awesome Project</h3>
-  <p align="center">
-    An awesome project that does amazing things!
-    <br />
-    <a href="https://github.com/yourusername/awesome-project"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/yourusername/awesome-project">View Demo</a>
-    ·
-    <a href="https://github.com/yourusername/awesome-project/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/yourusername/awesome-project/issues">Request Feature</a>
-  </p>
-</p>
+<h1 align="center">To-Do List Application</h1>
 
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
+This is a simple To-Do List application built using Python and the Tkinter library. It allows you to add, delete, and clear tasks in a graphical user interface.
 
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
+##Installation
+`1` Clone the repository to your local machine or download the ZIP file and extract it.
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+`2` Open a terminal or command prompt and navigate to the project directory.
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+`3` Run the following command to install the required dependencies:
 
-An awesome project that does amazing things!
+```py
+pip install tkinter
+```
 
-### Built With
+`6` Execute the following command to start the application:
 
-* Python
-* Django
-* HTML
-* CSS
+```py
+python main.py
+```
 
-<!-- GETTING STARTED -->
-## Getting Started
+`7` The To-Do List application window will appear.
 
-To get a local copy up and running follow these simple steps.
+##Usage 
+**Add Task** : : Adds a new task to the list when the user enters it in the text field and presses Enter or clicks the "Add Task" button.
 
-### Installation
+**Delete Task** : Removes the selected task from the list when the user clicks the "Delete Task" button.
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/yourusername/awesome-project.git
+**Clear All** : Removes all tasks from the list when the user clicks the "Clear All" button.
+
+##License
+This project is licensed under the MIT License. Feel free to use and modify the code as per your needs.
+
+##Contact
+If you have any questions or feedback, please feel free to [contact me](https://discord.com/channels/@me/1018403711426506813).
