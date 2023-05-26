@@ -2,6 +2,9 @@
 
 This is a simple To-Do List application built using Python and the Tkinter library. It allows you to add, delete, and clear tasks in a graphical user interface.
 
+![Screenshot 2023-05-26 233342](https://github.com/WantedPurpose/To-Do-List-Application/assets/73717132/3b5ac6a9-7c63-44b0-98b8-cc7afa381994)
+
+
 ## Installation
 `1` Clone the repository to your local machine or download the ZIP file and extract it.
 
