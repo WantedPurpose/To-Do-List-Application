@@ -2,7 +2,7 @@
 
 This is a simple To-Do List application built using Python and the Tkinter library. It allows you to add, delete, and clear tasks in a graphical user interface.
 
-##Installation
+## Installation
 `1` Clone the repository to your local machine or download the ZIP file and extract it.
 
 `2` Open a terminal or command prompt and navigate to the project directory.
@@ -21,15 +21,15 @@ python main.py
 
 `7` The To-Do List application window will appear.
 
-##Usage 
+## How to Work
 **Add Task** : : Adds a new task to the list when the user enters it in the text field and presses Enter or clicks the "Add Task" button.
 
 **Delete Task** : Removes the selected task from the list when the user clicks the "Delete Task" button.
 
 **Clear All** : Removes all tasks from the list when the user clicks the "Clear All" button.
 
-##License
+## License
 This project is licensed under the MIT License. Feel free to use and modify the code as per your needs.
 
-##Contact
+## Contact
 If you have any questions or feedback, please feel free to [contact me](https://discord.com/channels/@me/1018403711426506813).
