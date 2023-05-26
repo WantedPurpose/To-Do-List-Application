@@ -25,20 +25,20 @@ def main():
     root = tk.Tk()
     root.title("To-Do List")
 
-    # Styling
+
     root.geometry("400x400")
     root.config(bg="#f9f9f9")
 
-    # Task Entry
+
     entry = tk.Entry(root, font=("Arial", 14))
     entry.pack(pady=10)
     entry.bind("<Return>", add_task)  # Bind the Enter key to the add_task function
 
-    # Task List
+
     listbox = tk.Listbox(root, font=("Arial", 12), width=35, height=10, bd=0, selectbackground="#a6a6a6")
     listbox.pack(padx=10, pady=5)
 
-    # Buttons
+
     button_frame = tk.Frame(root, bg="#f9f9f9")
     button_frame.pack(pady=10)
 
