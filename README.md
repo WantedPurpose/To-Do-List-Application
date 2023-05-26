@@ -25,7 +25,7 @@ python main.py
 `7` The To-Do List application window will appear.
 
 ## How to Work
-**Add Task** : : Adds a new task to the list when the user enters it in the text field and presses Enter or clicks the "Add Task" button.
+**Add Task** : Adds a new task to the list when the user enters it in the text field and presses Enter or clicks the "Add Task" button.
 
 **Delete Task** : Removes the selected task from the list when the user clicks the "Delete Task" button.
 
